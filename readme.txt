@@ -8,3 +8,7 @@ fix permissions with chmod +x for each file, then run:
 ./build all
 and run your program:
 ./hwclient
+
+lbbBrokerForAPI-MicroService is used in combination with api-microservice
+lbbroker2 is a standalone testing ground including clients, workers and the broker
+use hwclient and hwserver in combination, can be used in rrbroker2 if used on multiple machines
